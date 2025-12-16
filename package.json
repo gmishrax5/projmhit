@@ -1,0 +1,27 @@
+{
+  "name": "projmhit",
+  "version": "1.0.0",
+  "description": "a project management application for beginners",
+  "keywords": [
+    "backend",
+    "practise"
+  ],
+  "homepage": "https://github.com/gmishrax5/projmhit#readme",
+  "bugs": {
+    "url": "https://github.com/gmishrax5/projmhit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmishrax5/projmhit.git"
+  },
+  "license": "ISC",
+  "author": "gmishra",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
